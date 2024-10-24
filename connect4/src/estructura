@@ -1,0 +1,5 @@
+/conecta_4/
+│
+├── game.py        # Lógica del juego
+├── ai.py          # Lógica de la inteligencia artificial
+└── gui.py         # Interfaz gráfica del usuario
