@@ -66,8 +66,3 @@ README.md                # Project documentation
 <p style="font-size: 16px; line-height: 1.5;">
     If you would like to contribute to this project, feel free to fork it, open an issue, or submit a pull request.
 </p>
-
-<h2 style="color: #444;">License</h2>
-<p style="font-size: 16px; line-height: 1.5;">
-    This project is licensed under the MIT License.
-</p>
